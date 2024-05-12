@@ -29,29 +29,29 @@ This project implements a real-time webcam application using Python, OpenCV, YOL
 ## Installation
 
 1. Clone the repository:
-   https://github.com/Ranaavh/AI-visual-blind-assistive-system-
+    https://github.com/Ranaavh/AI-visual-blind-assistive-system-
 
-  also clone yolov5 github repo:https://github.com/ultralytics/yolov5
+    also clone yolov5 github repo:https://github.com/ultralytics/yolov5
   
 
 2.Setup Anaconda Environment
 
-conda create --name <env_name> python=<python_version>
+   conda create --name <env_name> python=<python_version>
 
-conda activate <env_name>
+   conda activate <env_name>
 
-pip install package_name
+   pip install package_name
 
 
 3.Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 
 ## Usage
 
 1. Run the main script:
-python webcam_app.py
+   python webcam_app.py
 
 2. Use the GUI buttons to start/stop the webcam, record videos, and control other functionalities.
