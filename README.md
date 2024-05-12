@@ -32,6 +32,8 @@ This project implements a real-time webcam application using Python, OpenCV, YOL
     https://github.com/Ranaavh/AI-visual-blind-assistive-system-
 
     also clone yolov5 github repo:https://github.com/ultralytics/yolov5
+      
+
   
 
 2.Setup Anaconda Environment
@@ -46,6 +48,10 @@ This project implements a real-time webcam application using Python, OpenCV, YOL
 3.Install dependencies:
 
    pip install -r requirements.txt
+   
+   python detect.py --weights yolov5s.pt
+
+  
 
 
 
