@@ -52,6 +52,7 @@ This project implements a real-time webcam application using Python, OpenCV, YOL
 ## Usage
 
 1. Run the main script:
+
    python webcam_app.py
 
-2. Use the GUI buttons to start/stop the webcam, record videos, and control other functionalities.
+3. Use the GUI buttons to start/stop the webcam, record videos, and control other functionalities.
