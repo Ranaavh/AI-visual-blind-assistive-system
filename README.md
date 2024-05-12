@@ -36,7 +36,9 @@ This project implements a real-time webcam application using Python, OpenCV, YOL
 2.Setup Anaconda Environment
 
 conda create --name <env_name> python=<python_version>
+
 conda activate <env_name>
+
 pip install package_name
 
 3.Install dependencies:
