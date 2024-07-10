@@ -5,6 +5,9 @@
 
 ![Screenshot 2024-04-20 221124](https://github.com/Ranaavh/AI-visual-blind-assistive-system-/assets/166323572/4698c82d-adde-424c-a719-047f92eedc9b)
 
+![Screenshot 2024-04-20 220817](https://github.com/Ranaavh/AI-visual-blind-assistive-system/assets/166323572/8abba5e7-2998-4d8f-9179-6195306402c2)
+
+
 ## Description
 
 This project implements a real-time webcam application using Python, OpenCV, YOLOv5, and other libraries for object detection and distance estimation. The application detects persons in the webcam feed, calculates their distance from the camera, and provides real-time feedback through graphical and auditory interfaces.
